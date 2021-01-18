@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-prueba A
-=======
 esta es una prueba git b
->>>>>>> feature/ejemplo
